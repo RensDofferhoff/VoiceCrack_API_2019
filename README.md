@@ -1,2 +1,1 @@
-# VoiceCrack API 2019
-# Rick boks & Rens Dofferhoff
+<a href="/report.pdf" class="image fit"></a>
