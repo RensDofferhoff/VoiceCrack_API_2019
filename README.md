@@ -1,8 +1,7 @@
-#VoiceCrack
+# VoiceCrack
+#### Authors: Rick Boks and Rens Dofferhoff
 
 API 2019 submission
-
-Made by Rick Boks & Rens Dofferhoff
 
 Repo link: <a href="https://github.com/RensDofferhoff/VoiceCrack_API_2019/">Repo</a>
 
